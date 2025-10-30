@@ -1,2 +1,8 @@
-# zipOS
-zipOS made for the web.
+# zipOS (Open Source and Web Used)!💾
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
